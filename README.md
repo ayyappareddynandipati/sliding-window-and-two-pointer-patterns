@@ -75,7 +75,7 @@ g++ filename.cpp -o program
 For example:
 
 ```bash
-g++ countSetBits.cpp -o countBits
-./countBits
+g++ count_nice_subarrays_with_k_odds.cpp -o count_nice_subarrays_with_k_odds
+./count_nice_subarrays_with_k_odds
 ```
 
