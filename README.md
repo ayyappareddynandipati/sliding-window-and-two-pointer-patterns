@@ -43,10 +43,39 @@ A curated collection of **optimized C++ solutions** for famous sliding window an
 
 ---
 
-## 🛠️ How to Use
+
+## 🛠️ Prerequisites
+
+* C++ Compiler (like `g++`)
+
+Install via terminal if not already installed:
 
 ```bash
-git clone https://github.com/ayyappareddynandipati/sliding-window-and-two-pointer-patterns.git
-cd sliding-window-and-two-pointer-patterns
-g++ your_file.cpp -o output
-./output
+sudo apt update && sudo apt install g++
+```
+
+---
+
+## 🚀 How to Run
+
+### 1. **Clone the Repository**
+```bash
+git clone https://github.com/ayyappareddynandipati/learn-bitwise-cpp.git
+cd learn-bitwise-cpp
+```
+
+
+### 2. **Compile and Run Any File**
+
+```bash
+g++ filename.cpp -o program
+./program
+```
+
+For example:
+
+```bash
+g++ countSetBits.cpp -o countBits
+./countBits
+```
+
