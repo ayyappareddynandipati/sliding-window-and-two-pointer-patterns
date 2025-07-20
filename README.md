@@ -60,8 +60,8 @@ sudo apt update && sudo apt install g++
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/ayyappareddynandipati/learn-bitwise-cpp.git
-cd learn-bitwise-cpp
+git clone https://github.com/ayyappareddynandipati/sliding-window-and-two-pointer-patterns.git
+cd sliding-window-and-two-pointer-patterns
 ```
 
 
